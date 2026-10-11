@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Banking-Platform-UI-/',
+  base: '/Banking-Platform-UI/',
   plugins: [react(), tailwindcss()],
 })
